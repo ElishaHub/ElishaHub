@@ -26,9 +26,3 @@
 [![Top Langs](https://github-readme-stats-gold-nu-92.vercel.app/api/top-langs/?username=ElishaHub&layout=compact&theme=ocean_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-<div align="right">
-  
-[![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
-   
-</div>
